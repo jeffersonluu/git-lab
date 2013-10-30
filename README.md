@@ -20,3 +20,6 @@ Lab: Wednesday 4-6
 OUR FAVORITE OCTOCAT:
 
 http://octodex.github.com/images/baracktocat.jpg
+
+###New Features Under Development
+  + [FizzBuzz](http://www.codinghorror.com/blog/2007/02/why-cant-programmers-program.html)
